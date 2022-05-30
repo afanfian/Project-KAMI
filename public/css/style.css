@@ -1,0 +1,445 @@
+/* Home */
+.home1 {
+    padding-top: 10%;
+}
+.camerahome {
+    padding-bottom: 5%;
+}
+.defhome {
+    padding-top: 2%;
+    background-color: #36d7b7;
+    color: white;
+    width: 50%;
+    height: 30%;
+    margin: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+}
+.definisi-kami {
+    padding-top: 3%;
+    text-align: justify;
+    color: #6a6c7c;
+}
+.gambarayam {
+    justify-content: center;
+    padding-left: 35%;
+    width: 800px;
+}
+.jenis-makanan {
+    background-color: #36d7b7;
+    color: white;
+    width: 55%;
+    text-align: center;
+    margin: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+}
+.temukan-nama {
+    background-color: #36d7b7;
+    color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+    width: 25%;
+    text-align: center;
+    margin: auto;
+}
+.slide-home {
+    display: none;
+    text-align: center;
+    background-color: #f5f5f5;
+    /* background-color: #d5f566; */
+    color: black;
+    margin: auto;
+    width: 80%;
+    height: 60%;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+}
+/* Validasi */
+.card-body {
+    background-color: #111840;
+    border-radius: 30px;
+    box-shadow: 20px 10px 10px rgb(92, 91, 91);
+}
+.btn {
+    font-size: 1.3em;
+    width: 30%;
+    background-color: white;
+    color: white;
+    border: 2px solid #111840;
+}
+.btn:hover {
+    background-color: #111840;
+    color: white;
+}
+.form-check {
+    text-align: center;
+    font-size: 1em;
+    font-weight: bold;
+    padding-bottom: 4%;
+}
+.alur {
+    justify-content: center;
+    padding-left: 35%;
+    padding-bottom: 5%;
+}
+/* Upload Image */
+.judulupload {
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 5%;
+    padding-bottom: 1%;
+    margin: auto;
+}
+.uploadimage {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: white;
+    color: black;
+    width: 50%;
+    height: 20%;
+    margin: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+}
+.addfiles {
+    font-size: 1.1em;
+    text-align: center;
+    background-image: linear-gradient(to left, #36d7b7, #2ecc71);
+    color: white;
+    margin: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+    text-align: justify;
+    padding-top: 1%;
+}
+.up {
+    padding-top: 5%;
+    padding-bottom: 3%;
+    background-color: grey;
+    color: white;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+    width: 43%;
+}
+.sub {
+    background-color: #36d7b7;
+    color: white;
+    box-shadow: 0px 8px 16px 0px rgba(252, 252, 252, 0.2);
+    border-radius: 10px 10px 10px 10px;
+    width: 25%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.slide-homes {
+    padding-top: 1%;
+    display: none;
+    text-align: center;
+    background-image: linear-gradient(to left, #36d7b7, #2ecc71);
+    color: white;
+    margin: auto;
+    width: 40%;
+    height: 75%;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+}
+/* About Us */
+.definisi {
+    font-size: 1.1em;
+    text-align: center;
+    background-image: linear-gradient(to left, #36d7b7, #2ecc71);
+    color: white;
+    width: 60%;
+    margin: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+    text-align: justify;
+    padding-top: 1%;
+}
+.visi {
+    font-size: 1.1em;
+    text-align: center;
+    background-image: linear-gradient(to left, #36d7b7, #2ecc71);
+    color: white;
+    margin: auto;
+    width: 60%;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+    text-align: center;
+    padding-top: 1%;
+}
+
+.misi {
+    font-size: 1.1em;
+    text-align: center;
+    background-color: white;
+    color: black;
+    width: 95%;
+    margin: auto;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    text-align: justify;
+    padding-top: 1%;
+}
+
+/* Slideshow container */
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+/* part1 */
+.mySlides1 {
+    display: none;
+    text-align: center;
+    background-image: linear-gradient(to left, #36d7b7, #2ecc71);
+    /* background-color: #d5f566; */
+    color: white;
+    font-weight: lighter;
+    margin: auto;
+    width: 90%;
+    height: 70%;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+    padding-top: 1%;
+}
+.dot1 {
+    height: 15px;
+    width: 15px;
+    margin: 0 2px;
+    background-color: #36d7b7;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+}
+
+.active1 {
+    background-color: #717171;
+}
+
+/* Fading animation */
+.fade1 {
+    -webkit-animation-name: fade;
+    -webkit-animation-duration: 1.5s;
+    animation-name: fade;
+    animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade1 {
+    from {
+        opacity: 0.4;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fade1 {
+    from {
+        opacity: 0.4;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+.member {
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 2%;
+    padding-bottom: 1%;
+    margin: auto;
+}
+.name {
+    font-size: 1.5em;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 1%;
+}
+.univ {
+    font-size: 1.1em;
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    width: 100%;
+    /* padding: 12px 16px; */
+    text-align: center;
+    font-weight: bold;
+}
+.pesan {
+    font-size: 1.1em;
+    text-align: center;
+    background-image: linear-gradient(to left, #36d7b7, #2ecc71);
+    color: white;
+    margin: auto;
+    width: 80%;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 10px 10px 10px 10px;
+    padding: 12px 16px;
+    text-align: center;
+}
+.linkedin {
+    padding-top: 2%;
+    font-size: 20px;
+}
+.github {
+    margin-left: 5%;
+    font-size: 20px;
+    color: black;
+}
+.instagram {
+    margin-left: 5%;
+    font-size: 20px;
+    color: red;
+}
+/* Contact Us */
+.email {
+    padding-right: 5%;
+    color: red;
+    font-size: 20px;
+}
+.whatsapp {
+    color: black;
+    font-size: 20px;
+    padding-bottom: 2%;
+}
+/* Footer */
+.footer {
+    background-color: #2ecc71;
+    color: white;
+    margin-top: 3%;
+}
+/* Responsive Home */
+@media screen and (max-width: 415px) {
+    .home1 {
+        padding-top: 10%;
+    }
+    .camerahome {
+        padding-top: 15%;
+        padding-bottom: 5%;
+    }
+    .defhome {
+        padding-top: 3%;
+        background-color: #36d7b7;
+        color: white;
+        width: 95%;
+        height: 25%;
+        margin: auto;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        border-radius: 10px 10px 10px 10px;
+    }
+    .makanan {
+        width: 200px;
+    }
+    .gambarayam {
+        padding-left: 25%;
+        width: 280px;
+        padding-bottom: 3%;
+    }
+    .jenis-makanan {
+        width: 70%;
+    }
+    .temukan-nama {
+        width: 80%;
+    }
+    .slide-home {
+        width: 80%;
+        height: 80%;
+    }
+    .alur {
+        justify-content: center;
+        padding-left: 15%;
+        padding-bottom: 5%;
+        width: 300px;
+    }
+}
+
+/* Responsive Upload Image */
+@media screen and (max-width: 415px) {
+    .judulupload {
+        font-size: 1.5em;
+        text-align: center;
+        font-weight: bold;
+        padding-top: 20%;
+        padding-bottom: 13%;
+        margin: auto;
+    }
+    .uploadimage {
+        padding-top: 5%;
+        padding-bottom: 5%;
+        background-color: white;
+        width: 80%;
+        height: 25%;
+        margin: auto;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        border-radius: 10px 10px 10px 10px;
+    }
+    .addfiles {
+        font-size: 1.1em;
+        text-align: center;
+        background-image: linear-gradient(to left, #36d7b7, #2ecc71);
+        color: white;
+        margin: auto;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        border-radius: 10px 10px 10px 10px;
+        text-align: justify;
+        padding-top: 1%;
+    }
+    .up {
+        padding-top: 10%;
+        padding-bottom: 7%;
+        width: 90%;
+    }
+    .sub {
+        padding-top: 2%;
+        padding-bottom: 2%;
+        width: 50%;
+    }
+    .slide-homes {
+        padding-top: 2%;
+        width: 80%;
+        height: 75%;
+    }
+    .slide-upload {
+        padding-top: 10%;
+    }
+}
+
+/* Responsive About Us*/
+/* Member */
+@media screen and (max-width: 415px) {
+    .kami {
+        padding-top: 15%;
+    }
+    .definisi {
+        padding-top: 3%;
+        width: 90%;
+    }
+    .visi {
+        padding-top: 3%;
+        width: 90%;
+    }
+    .misi {
+        padding-top: 3%;
+    }
+    .mySlides1 {
+        padding-top: 3%;
+    }
+}
+/* Responsive Contact Us */
+/* Responsive footer */
+@media screen and (max-width: 415px) {
+    .myauto {
+        padding-top: 18%;
+    }
+}
+
+/* Responsive footer */
+@media screen and (max-width: 415px) {
+    .contact {
+        padding-top: 10%;
+        text-align: center;
+    }
+}
